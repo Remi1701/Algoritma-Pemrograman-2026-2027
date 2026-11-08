@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "belajar",
+      "request": "launch",
+      "mainClass": "belajar",
+      "projectName": "Algoritma-Pemrograman-2026-2027_7ec082ab"
+    },
+    {
+      "type": "java",
       "name": "coba1",
       "request": "launch",
       "mainClass": "coba1",
